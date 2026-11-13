@@ -1,1 +1,1 @@
-{"version": 1, "seq": 4, "updatedAt": "2026-11-13T09:09:18.373411Z", "tasks": [{"id": "sync-grok-20261113-1", "title": "同步测试2", "assigneeId": "grok", "status": "running", "progress": -1, "summary": "Grok正在做:同步测试2", "updatedAt": "2026-11-13T09:09:18.373327Z"}]}
+{"version": 1, "seq": 5, "updatedAt": "2026-11-13T09:26:18.014396Z", "tasks": [{"id": "sync-grok-20261113-1", "title": "同步测试2", "assigneeId": "grok", "status": "completed", "progress": 100, "summary": "Grok正在做:同步测试2", "updatedAt": "2026-11-13T09:26:18.014382Z"}]}
