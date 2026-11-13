@@ -1,1 +1,1 @@
-{"seq":0,"tasks":[],"updatedAt":"2026-11-13T08:55:00Z","version":1}
+{"version": 1, "seq": 1, "updatedAt": "2026-11-13T08:50:53.661707Z", "tasks": [{"id": "sync-claude-20261113-1", "title": "同步测试", "assigneeId": "claude", "status": "running", "progress": -1, "summary": "Claude正在做:同步测试", "updatedAt": "2026-11-13T08:50:53.661648Z"}]}
